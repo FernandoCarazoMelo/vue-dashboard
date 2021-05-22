@@ -39,6 +39,7 @@ import {
   cilCalculator,
   cilCalendar,
   cilCloudDownload,
+  cilCloudUpload,
   cilChartPie,
   cilCheck,
   cilChevronBottom,
@@ -76,9 +77,8 @@ import {
   cilUser,
   cilUserFemale,
   cilUserFollow,
-  cilXCircle
-
-} from '@coreui/icons'
+  cilXCircle,
+} from "@coreui/icons";
 import { logo } from './logo'
 
 export const iconsSet = Object.assign(
@@ -92,6 +92,7 @@ export const iconsSet = Object.assign(
     cilCalculator,
     cilCalendar,
     cilCloudDownload,
+    cilCloudUpload,
     cilChartPie,
     cilCheck,
     cilChevronBottom,
